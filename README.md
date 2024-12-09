@@ -1,4 +1,4 @@
-This `README.md` is updated with the full list of challenges and categorized for better organization. Let me know if you'd like further adjustments! 🚀
+The full list of challenges. Let me know if you'd like further adjustments! 🚀
 
 
 # Coding Challenges Repository
