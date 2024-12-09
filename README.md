@@ -106,13 +106,20 @@ This repository contains custom coding challenges inspired by LeetCode-style pro
 
 ### Recursion:
 - Calculate the factorial of a number.
+- Calculate the n-th Fibonacci number.
+- Reverse a string.
+- Check if a string is a palindrome.
+- Find the sum of elements in an array.
 - Generate all valid parentheses combinations.
-- Reverse a linked list.
+- Flatten a nested array.
+- Solve the Tower of Hanoi problem.
+- Perform binary search recursively.
+- Implement a function to calculate power recursively.
 
 ---
 
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/coding-challenges.git
+   git clone https://github.com/No898/custom-coding-challenges-for-juniors
    cd coding-challenges
